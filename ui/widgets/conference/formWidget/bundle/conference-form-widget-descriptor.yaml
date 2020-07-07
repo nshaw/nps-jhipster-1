@@ -1,0 +1,6 @@
+code: conference-form-widget
+titles:
+  en: Conference Form Widget
+  it: Conference Form Widget
+group: free
+customUiPath: conference-form-widget.ftl
