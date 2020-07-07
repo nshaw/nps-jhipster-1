@@ -3,7 +3,7 @@ apiVersion: "entando.org/v1"
 metadata:
   name: "npsjhipster1-plugin"
 spec:
-  image: nathanshaw/npsjhipster-1:0.0.1-SNAPSHOT
+  image: nathanshaw/npsjhipster-1:0.0.2-SNAPSHOT
   replicas: 1
   dbms: mysql
   parameters: {}
